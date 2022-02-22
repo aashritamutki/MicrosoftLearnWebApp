@@ -9,5 +9,7 @@ To deploy a web app, Microsoft Azure App Service is used.
 
 #### App Service Plan : a4eproject-plan (B1: 1)
 
-![Screenshot (35)](https://user-images.githubusercontent.com/56816847/155102515-beb0f2fc-80b2-40cc-8aee-812689225402.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/56816847/155102907-ed534678-e59d-4fb8-a8fa-dd0d5d32550c.png)
+
+
 
